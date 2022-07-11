@@ -14,7 +14,6 @@ Mobile App UI Only.
 
 In the project directory, you can run:
 
-
 1. Make sure to create a branch and a pull request **before starting development**.
 
 ```sh
@@ -22,12 +21,19 @@ git checkout -b https://github.com/taipham1803/preemployment
 yarn && yarn pod
 ```
 
-2. Open xcode, vscode and run node server
+2. Add Google maps key to use Google maps
+
+Fastest way: Open the project with VSCode and search for `API_KEY_GOOGLE_MAPS`, then replace it with your google maps api key,
+Or you can change it manually in the following 2 places:
+For Android: ./android/app/src/main/AndroidManifest.xml
+For iOS: ./ios/preemployment/AppDelegate.mm
+
+3. Open xcode, vscode and run node server
 
 ```sh 
 yarn c
 ```
-3. Run App from Xcode
+4. Run App from Xcode
 
 
 ## Technologies
