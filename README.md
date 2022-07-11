@@ -14,11 +14,12 @@ Mobile App UI Only.
 
 
 
-1. Make sure to create a branch and a pull request
+1. Make sure to create a branch and a pull request, open your terminal and run:
+
 ```sh
-git checkout -b https://github.com/taipham1803/preemployment
+git clone https://github.com/taipham1803/preemployment
 ```
-- In the project directory, you can run:
+- In the rooit project folder, you run:
 
 ```sh
 yarn && yarn pod
@@ -29,14 +30,16 @@ yarn && yarn pod
 - Fastest way: Open the project with VSCode and search for `API_KEY_GOOGLE_MAPS`, then replace it with your google maps api key.
 
 #### Or you can change it manually in the following 2 places:
+
 - For Android: ./android/app/src/main/AndroidManifest.xml
 - For iOS: ./ios/preemployment/AppDelegate.mm
 
-3. Open xcode, vscode and run node server
+3. Open xcode, vscode and run node server in 1 command
 
 ```sh 
 yarn c
 ```
+
 4. Run App from Xcode
 
 
