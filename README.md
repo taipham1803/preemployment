@@ -2,12 +2,10 @@
 
 Mobile App UI Only.
 
-## Netlify deploy status
-
 ## Requirements
 
-- Mac OS X, Windows, or Linux
-- [Yarn](https://yarnpkg.com/) package + [Node.js](https://nodejs.org/) v12.16 or newer
+- Mac OS X
+- [Yarn](https://yarnpkg.com/) package + [Node.js](https://nodejs.org/) + react-native-cli v12.16 or newer
 - IDE: VSCode with [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) installed. Or any IDE that support ESLint integration.
 
 
