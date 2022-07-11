@@ -44,10 +44,10 @@ yarn c
 
 ## And the result of the application running up will be like this
 
-![demo_ios_light](https://user-images.githubusercontent.com/23112684/178327931-541d5c87-29ec-4c09-8977-1ee0d1a578e9.png)
+![demo_ios_light default layout](https://user-images.githubusercontent.com/23112684/178327931-541d5c87-29ec-4c09-8977-1ee0d1a578e9.png)
 iOS - iPhone 13 (iOS 15.5) - Light Mode
 
-![demo_android_dark](https://user-images.githubusercontent.com/23112684/178328018-9618cb1a-c414-4f2e-9d7f-ad1f10ac9d9c.png)
+![demo_android_dark default layout](https://user-images.githubusercontent.com/23112684/178328018-9618cb1a-c414-4f2e-9d7f-ad1f10ac9d9c.png)
 Android - Galaxy Note 10 (API 30) - Dark Mode
 
 ## Technologies
