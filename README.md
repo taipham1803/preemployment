@@ -12,16 +12,19 @@ Mobile App UI Only.
 
 ## Running project locally - Runs the app in the development mode.
 
-In the project directory, you can run:
 
-1. Make sure to create a branch and a pull request **before starting development**.
 
+1. Make sure to create a branch and a pull request
 ```sh
 git checkout -b https://github.com/taipham1803/preemployment
+```
+- In the project directory, you can run:
+
+```sh
 yarn && yarn pod
 ```
 
-2. Add Google maps key to use Google maps
+2. Add Google maps API key to use Google maps for Android + iOS
 
 - Fastest way: Open the project with VSCode and search for `API_KEY_GOOGLE_MAPS`, then replace it with your google maps api key.
 
