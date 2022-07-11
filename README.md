@@ -5,7 +5,8 @@ Mobile App UI Only.
 ## Requirements
 
 - Mac OS X
-- [Yarn](https://yarnpkg.com/) package + [Node.js](https://nodejs.org/) + react-native-cli v12.16 or newer
+- [YarnV1](https://yarnpkg.com/) package + [Node.js](https://nodejs.org/) v14 or newer + react-native-cli 2.0.1 or newer
+- Cocoapod + xcode for iOS and java 11 + android studio for Android
 - IDE: VSCode with [ESLint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) installed. Or any IDE that support ESLint integration.
 
 
