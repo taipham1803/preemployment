@@ -41,7 +41,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 1. Make sure to create a branch and a pull request **before starting development**.
 
 ```sh
-git checkout -b https://github.com/taipham1803/pre-employment
+git checkout -b https://github.com/taipham1803/preemployment
 yarn && yarn pod
 ```
 
